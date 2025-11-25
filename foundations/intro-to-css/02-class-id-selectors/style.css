@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+.odd {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans",sans-serif;
+
+}
+.medium {
+    font-size: 24px;
+}
+#second {
+    color:hsl(240, 100%, 50%);
+    font-size:36px;
+}
+#fourth {
+    background-color: hsl(120, 73%, 75%);
+    font-weight: bold;
+}
