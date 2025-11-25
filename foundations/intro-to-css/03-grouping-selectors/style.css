@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+.invert,.highlight {
+    font-size:28px;
+    font-family: "Helvetica","Times New Roman",sans-serif;
+}
+.invert {
+    background-color:#000000;
+    color: rgb(255, 255, 255);
+
+}
+.highlight {
+    background-color:  hsl(59, 92%, 49%);
+}
